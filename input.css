@@ -22,3 +22,6 @@ body {background-image :url('../images/bg-header-desktop.png');
 @media (max-width:576px) {body {background-image :url('../images/bg-header-mobile.png');
       background-repeat:no-repeat;
       background-size:contain; }}      
+
+
+.ficon:hover {filter:invert(53%) sepia(68%) saturate(434%) hue-rotate(121deg) brightness(101%) contrast(94%);}
